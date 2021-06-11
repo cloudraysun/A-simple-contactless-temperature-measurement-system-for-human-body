@@ -1,6 +1,6 @@
 欢迎来我的博客玩
 cloudraysun:
-http://cloudray.club/
+https://cloudraysun.github.io/
 
 注意！！！！
 关于人脸识别模型部分，来源于官方例程，
