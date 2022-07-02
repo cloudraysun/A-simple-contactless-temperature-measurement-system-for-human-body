@@ -35,7 +35,11 @@ Maix_Toolbox-master
 烧录K210固件的软件
 
 相关资料下载：
+
 Sipeed官网：https://wiki.sipeed.com/
+
 Maixpy教程：https://wiki.sipeed.com/soft/maixpy/zh/index.html
+
 模型下载与训练地址：https://maix.sipeed.com/home
+
 Maixpy官方群：1129095405
