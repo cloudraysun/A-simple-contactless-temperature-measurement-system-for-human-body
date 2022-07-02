@@ -1,14 +1,5 @@
-欢迎来我的博客玩
-cloudraysun:
-https://cloudraysun.github.io/
-
-注意！！！！
-关于人脸识别模型部分，来源于官方例程，
-注意不同的k210需要重新下载人脸识别模型，否则会出现加载错！！！
-下载地址：https://blog.sipeed.com/p/1338.html
-同时，最新固件版的k210已经不支持smodel了，建议寻找最新模型，或者自己训练。
-口罩模型下载地址：
-https://cn.bbs.sipeed.com/d/401-2020-f
+此项目为2020大学生电子设计竞赛F题的开源项目，仅作记录。
+主要包含以下内容：
 
 主要系统器件
 STM32F407VGT6最小系统板
@@ -43,7 +34,8 @@ https://www.bilibili.com/video/BV1Bv411k7ZV
 Maix_Toolbox-master
 烧录K210固件的软件
 
-建议：关于K210部分的学习资料，可自行百度，或上淘宝找客服索取
-Sipeed社区：https://cn.bbs.sipeed.com/
-Maixpy官网文档：https://cn.maixpy.sipeed.com/zh/
+相关资料下载：
+Sipeed官网：https://wiki.sipeed.com/
+Maixpy教程：https://wiki.sipeed.com/soft/maixpy/zh/index.html
+模型下载与训练地址：https://maix.sipeed.com/home
 Maixpy官方群：1129095405

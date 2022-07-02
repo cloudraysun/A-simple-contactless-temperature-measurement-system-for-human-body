@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"..\obj\objects\main.o"
+"..\obj\objects\stm32f10x_it.o"
+"..\obj\objects\system_stm32f10x.o"
+"..\obj\objects\led.o"
+"..\obj\objects\lcd_init.o"
+"..\obj\objects\lcd.o"
+"..\obj\objects\mlx90614.o"
+"..\obj\objects\sr04.o"
+"..\obj\objects\delay.o"
+"..\obj\objects\timer.o"
+"..\obj\objects\usart.o"
+"..\obj\objects\sys.o"
+"..\obj\objects\core_cm3.o"
+"..\obj\objects\startup_stm32f10x_hd.o"
+"..\obj\objects\misc.o"
+"..\obj\objects\stm32f10x_gpio.o"
+"..\obj\objects\stm32f10x_sdio.o"
+"..\obj\objects\stm32f10x_rcc.o"
+"..\obj\objects\stm32f10x_rtc.o"
+"..\obj\objects\stm32f10x_usart.o"
+"..\obj\objects\stm32f10x_tim.o"
+"..\obj\objects\stm32f10x_exti.o"
+--strict --scatter "..\OBJ\Objects\project2.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "..\OBJ\Listings\project2.map" -o ..\OBJ\Objects\project2.axf
